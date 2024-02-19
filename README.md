@@ -19,21 +19,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="![image](https://github.com/sukhoi08/sukhoi08/assets/93764449/fb2a5da1-f258-412b-9472-c83476e9e03d)" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="![image](https://github.com/sukhoi08/sukhoi08/assets/93764449/a66add81-9a23-405c-ac1a-4883211932d4)" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="![image](https://github.com/sukhoi08/sukhoi08/assets/93764449/33ab1d40-d9ca-4a2f-ba10-1c422611d839)
+"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="![image](https://github.com/sukhoi08/sukhoi08/assets/93764449/1cdf4354-9a6f-4482-b74e-bcc4553ee521)
+" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="![image](https://github.com/sukhoi08/sukhoi08/assets/93764449/7983f0e3-bb7c-4898-abb2-bdd42fea6585)
+" height="40" alt="storybook logo"  />
+  
 </div>
 
 ###
