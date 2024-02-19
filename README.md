@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pratyush Rai and I'm a student with big dreams and a passion for technology. Currently immersed in my studies in computer science, I'm on a journey to become a software developer and make my mark in the digital world.student </p>
+<p align="left">My name is Pratyush Rai and I'm a student with big dreams and a passion for technology. Currently immersed in my studies in computer science, I'm on a journey to become a software developer and make my mark in the digital world. </p>
 
 ###
 
